@@ -10,6 +10,6 @@
 
 
 ### License
-Created under **[Creative common license 4.0]**(https://creativecommons.org/licenses/by/4.0/legalcode)
+Created under *[Creative common license 4.0]*(https://creativecommons.org/licenses/by/4.0/legalcode)
 
 

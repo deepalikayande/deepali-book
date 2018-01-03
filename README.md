@@ -1,7 +1,7 @@
 # My First GIT Book
 > " With HIS blessings..."
 
-[Donate for the book here.](https://deepalikayande.blogspot.com/)
+__[Donate for the book here.](https://deepalikayande.blogspot.com/)__
 
 ### Table of Contents
 * [Chapter 1](ch1)

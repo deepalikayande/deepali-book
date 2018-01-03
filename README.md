@@ -1,7 +1,7 @@
-# first git book
-> "HIS blessings"
+# My First GIT Book
+> " With HIS blessings..."
 
-[Donate for the book](https://deepalikayande.blogspot.com/)
+[Donate for the book here.](https://deepalikayande.blogspot.com/)
 
 ### Table of Contents
 * [Chapter 1](ch1)
@@ -10,6 +10,6 @@
 
 
 ### License
-[Creative common license 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+Created under **[Creative common license 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 
